@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-15-v1",
-  "description": "幼儿园大班数学、汉字、英语自然词汇，新增示范题库",
+  "version": "2026-10-15-v2-visual",
+  "description": "幼儿园大班9月14日至10月10日资料：按已学知识重构图片题型、保留已入库题，并增加图形化变式题。source字段仅供整理，当前网页不展示。",
   "questions": [
     {
       "id": "math-sub-8-3",
@@ -9,13 +9,14 @@
       "text": "8 − 3 = ?",
       "ans": "5",
       "opts": [
-        "5",
-        "6",
         "4",
-        "7"
+        "7",
+        "5",
+        "6"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-9-4",
@@ -24,13 +25,14 @@
       "text": "9 − 4 = ?",
       "ans": "5",
       "opts": [
-        "5",
         "6",
         "4",
+        "5",
         "7"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-10-7",
@@ -39,13 +41,14 @@
       "text": "10 − 7 = ?",
       "ans": "3",
       "opts": [
-        "3",
         "4",
+        "5",
         "2",
-        "5"
+        "3"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-7-5",
@@ -55,12 +58,13 @@
       "ans": "2",
       "opts": [
         "2",
-        "3",
         "1",
+        "3",
         "4"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-6-2",
@@ -69,13 +73,14 @@
       "text": "6 − 2 = ?",
       "ans": "4",
       "opts": [
-        "4",
-        "5",
         "3",
-        "6"
+        "4",
+        "6",
+        "5"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-9-6",
@@ -84,13 +89,14 @@
       "text": "9 − 6 = ?",
       "ans": "3",
       "opts": [
+        "5",
         "3",
-        "4",
         "2",
-        "5"
+        "4"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-10-3",
@@ -99,13 +105,14 @@
       "text": "10 − 3 = ?",
       "ans": "7",
       "opts": [
-        "7",
+        "9",
         "8",
         "6",
-        "9"
+        "7"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-8-5",
@@ -114,13 +121,14 @@
       "text": "8 − 5 = ?",
       "ans": "3",
       "opts": [
-        "3",
-        "4",
         "2",
-        "5"
+        "5",
+        "4",
+        "3"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-7-2",
@@ -131,11 +139,12 @@
       "opts": [
         "5",
         "6",
-        "4",
-        "7"
+        "7",
+        "4"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "math-sub-10-8",
@@ -144,13 +153,14 @@
       "text": "10 − 8 = ?",
       "ans": "2",
       "opts": [
-        "2",
-        "3",
+        "4",
         "1",
-        "4"
+        "2",
+        "3"
       ],
       "tip": "先数一数一共有几个，再拿走一部分。",
-      "emoji": "🍎"
+      "emoji": "🍎",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-0",
@@ -159,13 +169,14 @@
       "text": "请找出汉字「日」",
       "ans": "日",
       "opts": [
-        "日",
+        "禾",
         "目",
         "木",
-        "禾"
+        "日"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-1",
@@ -174,13 +185,14 @@
       "text": "请找出汉字「目」",
       "ans": "目",
       "opts": [
-        "目",
         "日",
         "木",
+        "目",
         "禾"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-2",
@@ -189,13 +201,14 @@
       "text": "请找出汉字「木」",
       "ans": "木",
       "opts": [
+        "目",
         "木",
         "日",
-        "目",
         "禾"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-3",
@@ -204,13 +217,14 @@
       "text": "请找出汉字「禾」",
       "ans": "禾",
       "opts": [
-        "禾",
         "日",
+        "木",
         "目",
-        "木"
+        "禾"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-4",
@@ -219,13 +233,14 @@
       "text": "请找出汉字「云」",
       "ans": "云",
       "opts": [
+        "木",
         "云",
-        "日",
         "目",
-        "木"
+        "日"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-5",
@@ -234,13 +249,14 @@
       "text": "请找出汉字「去」",
       "ans": "去",
       "opts": [
-        "去",
         "日",
+        "去",
         "目",
         "木"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-6",
@@ -249,13 +265,14 @@
       "text": "请找出汉字「山」",
       "ans": "山",
       "opts": [
-        "山",
-        "日",
         "目",
+        "日",
+        "山",
         "木"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-7",
@@ -265,12 +282,13 @@
       "ans": "水",
       "opts": [
         "水",
-        "日",
+        "木",
         "目",
-        "木"
+        "日"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-8",
@@ -279,13 +297,14 @@
       "text": "请找出汉字「牛」",
       "ans": "牛",
       "opts": [
-        "牛",
-        "日",
         "目",
-        "木"
+        "牛",
+        "木",
+        "日"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "cn-read-9",
@@ -294,13 +313,14 @@
       "text": "请找出汉字「午」",
       "ans": "午",
       "opts": [
-        "午",
-        "日",
         "目",
-        "木"
+        "木",
+        "午",
+        "日"
       ],
       "tip": "仔细看字形，再用手指书空写一遍。",
-      "emoji": "📖"
+      "emoji": "📖",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-0",
@@ -309,13 +329,14 @@
       "text": "“树”用英语怎么说？",
       "ans": "tree",
       "opts": [
-        "tree",
-        "frog",
         "grass",
-        "flower"
+        "frog",
+        "flower",
+        "tree"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🌳"
+      "emoji": "🌳",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-1",
@@ -324,13 +345,14 @@
       "text": "“青蛙”用英语怎么说？",
       "ans": "frog",
       "opts": [
-        "frog",
+        "flower",
         "tree",
-        "grass",
-        "flower"
+        "frog",
+        "grass"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🐸"
+      "emoji": "🐸",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-2",
@@ -339,13 +361,14 @@
       "text": "“草”用英语怎么说？",
       "ans": "grass",
       "opts": [
+        "frog",
         "grass",
         "tree",
-        "frog",
         "flower"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🌱"
+      "emoji": "🌱",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-3",
@@ -354,13 +377,14 @@
       "text": "“花”用英语怎么说？",
       "ans": "flower",
       "opts": [
-        "flower",
         "tree",
-        "frog",
-        "grass"
+        "grass",
+        "flower",
+        "frog"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🌸"
+      "emoji": "🌸",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-4",
@@ -369,13 +393,14 @@
       "text": "“蜜蜂”用英语怎么说？",
       "ans": "bee",
       "opts": [
-        "bee",
         "tree",
-        "frog",
-        "grass"
+        "grass",
+        "bee",
+        "frog"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🐝"
+      "emoji": "🐝",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-5",
@@ -390,7 +415,8 @@
         "grass"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🏞️"
+      "emoji": "🏞️",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-6",
@@ -399,13 +425,14 @@
       "text": "“兔子”用英语怎么说？",
       "ans": "rabbit",
       "opts": [
+        "frog",
         "rabbit",
         "tree",
-        "frog",
         "grass"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🐰"
+      "emoji": "🐰",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-7",
@@ -414,13 +441,14 @@
       "text": "“鸟巢”用英语怎么说？",
       "ans": "nest",
       "opts": [
-        "nest",
-        "tree",
         "frog",
-        "grass"
+        "nest",
+        "grass",
+        "tree"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🪺"
+      "emoji": "🪺",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-8",
@@ -429,13 +457,14 @@
       "text": "“池塘”用英语怎么说？",
       "ans": "pond",
       "opts": [
-        "pond",
         "tree",
+        "pond",
         "frog",
         "grass"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "💧"
+      "emoji": "💧",
+      "source": "previous_bank"
     },
     {
       "id": "en-nature-9",
@@ -444,13 +473,6494 @@
       "text": "“树叶”用英语怎么说？",
       "ans": "leaves",
       "opts": [
+        "frog",
         "leaves",
         "tree",
-        "frog",
         "grass"
       ],
       "tip": "想一想幼儿园学过的自然主题词汇。",
-      "emoji": "🍃"
+      "emoji": "🍃",
+      "source": "previous_bank"
+    },
+    {
+      "id": "src5-add-0-0",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "0 + 0 = ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-0-1",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "0 + 1 = ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-0-2",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "0 + 2 = ?",
+      "ans": "2",
+      "opts": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-0-3",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "0 + 3 = ?",
+      "ans": "3",
+      "opts": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-0-4",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "0 + 4 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-0-5",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "0 + 5 = ?",
+      "ans": "5",
+      "opts": [
+        "6",
+        "7",
+        "4",
+        "5"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-1-0",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "1 + 0 = ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-1-1",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "1 + 1 = ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-1-2",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "1 + 2 = ?",
+      "ans": "3",
+      "opts": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-1-3",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "1 + 3 = ?",
+      "ans": "4",
+      "opts": [
+        "4",
+        "2",
+        "5",
+        "3"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-1-4",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "1 + 4 = ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-2-0",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "2 + 0 = ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-2-1",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "2 + 1 = ?",
+      "ans": "3",
+      "opts": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-2-2",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "2 + 2 = ?",
+      "ans": "4",
+      "opts": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-2-3",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "2 + 3 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-3-0",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "3 + 0 = ?",
+      "ans": "3",
+      "opts": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-3-1",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "3 + 1 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-3-2",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "3 + 2 = ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "7",
+        "6"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-4-0",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "4 + 0 = ?",
+      "ans": "4",
+      "opts": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-4-1",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "4 + 1 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-add-5-0",
+      "cat": "math",
+      "topic": "5以内加法",
+      "text": "5 + 0 = ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "tip": "把两堆合起来数一数。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-0-0",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "0 − 0 = ?",
+      "ans": "0",
+      "opts": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-1-0",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "1 − 0 = ?",
+      "ans": "1",
+      "opts": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-1-1",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "1 − 1 = ?",
+      "ans": "0",
+      "opts": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-2-0",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "2 − 0 = ?",
+      "ans": "2",
+      "opts": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-2-1",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "2 − 1 = ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-2-2",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "2 − 2 = ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-3-0",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "3 − 0 = ?",
+      "ans": "3",
+      "opts": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-3-1",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "3 − 1 = ?",
+      "ans": "2",
+      "opts": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-3-2",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "3 − 2 = ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-3-3",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "3 − 3 = ?",
+      "ans": "0",
+      "opts": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-4-0",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "4 − 0 = ?",
+      "ans": "4",
+      "opts": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-4-1",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "4 − 1 = ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-4-2",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "4 − 2 = ?",
+      "ans": "2",
+      "opts": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-4-3",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "4 − 3 = ?",
+      "ans": "1",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-4-4",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "4 − 4 = ?",
+      "ans": "0",
+      "opts": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-5-0",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "5 − 0 = ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-5-1",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "5 − 1 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-5-2",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "5 − 2 = ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-5-3",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "5 − 3 = ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-5-4",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "5 − 4 = ?",
+      "ans": "1",
+      "opts": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src5-sub-5-5",
+      "cat": "math",
+      "topic": "5以内减法",
+      "text": "5 − 5 = ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "tip": "数一数拿走之后还剩几个。",
+      "emoji": "🍎",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-4-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "4 = 0 + ?",
+      "ans": "4",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-4-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "4 = 1 + ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-4-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "4 = 2 + ?",
+      "ans": "2",
+      "opts": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-4-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "4 = 3 + ?",
+      "ans": "1",
+      "opts": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-4-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "4 = 4 + ?",
+      "ans": "0",
+      "opts": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-5-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "5 = 0 + ?",
+      "ans": "5",
+      "opts": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-5-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "5 = 1 + ?",
+      "ans": "4",
+      "opts": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-5-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "5 = 2 + ?",
+      "ans": "3",
+      "opts": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-5-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "5 = 3 + ?",
+      "ans": "2",
+      "opts": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-5-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "5 = 4 + ?",
+      "ans": "1",
+      "opts": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-5-5",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "5 = 5 + ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 0 + ?",
+      "ans": "6",
+      "opts": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 1 + ?",
+      "ans": "5",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 2 + ?",
+      "ans": "4",
+      "opts": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 3 + ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 4 + ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-5",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 5 + ?",
+      "ans": "1",
+      "opts": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-6-6",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "6 = 6 + ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 0 + ?",
+      "ans": "7",
+      "opts": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 1 + ?",
+      "ans": "6",
+      "opts": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 2 + ?",
+      "ans": "5",
+      "opts": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 3 + ?",
+      "ans": "4",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 4 + ?",
+      "ans": "3",
+      "opts": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-5",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 5 + ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-6",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 6 + ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-7-7",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "7 = 7 + ?",
+      "ans": "0",
+      "opts": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 0 + ?",
+      "ans": "8",
+      "opts": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 1 + ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 2 + ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 3 + ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 4 + ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-5",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 5 + ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-6",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 6 + ?",
+      "ans": "2",
+      "opts": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-7",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 7 + ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-8-8",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "8 = 8 + ?",
+      "ans": "0",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 0 + ?",
+      "ans": "9",
+      "opts": [
+        "10",
+        "9",
+        "7",
+        "8"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 1 + ?",
+      "ans": "8",
+      "opts": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 2 + ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "7",
+        "9",
+        "8"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 3 + ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 4 + ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-5",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 5 + ?",
+      "ans": "4",
+      "opts": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-6",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 6 + ?",
+      "ans": "3",
+      "opts": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-7",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 7 + ?",
+      "ans": "2",
+      "opts": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-8",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 8 + ?",
+      "ans": "1",
+      "opts": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-9-9",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "9 = 9 + ?",
+      "ans": "0",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-0",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 0 + ?",
+      "ans": "10",
+      "opts": [
+        "9",
+        "10",
+        "7",
+        "8"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-1",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 1 + ?",
+      "ans": "9",
+      "opts": [
+        "10",
+        "7",
+        "9",
+        "8"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-2",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 2 + ?",
+      "ans": "8",
+      "opts": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-3",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 3 + ?",
+      "ans": "7",
+      "opts": [
+        "7",
+        "9",
+        "6",
+        "8"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-4",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 4 + ?",
+      "ans": "6",
+      "opts": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-5",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 5 + ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-6",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 6 + ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "6",
+        "4",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-7",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 7 + ?",
+      "ans": "3",
+      "opts": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-8",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 8 + ?",
+      "ans": "2",
+      "opts": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-9",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 9 + ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-bond-10-10",
+      "cat": "math",
+      "topic": "10以内分解组成",
+      "text": "10 = 10 + ?",
+      "ans": "0",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "tip": "一共这么多，已经有一部分，还缺几个？",
+      "emoji": "🧩",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-1",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 1 = ?",
+      "ans": "9",
+      "opts": [
+        "9",
+        "10",
+        "7",
+        "8"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-2",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 2 = ?",
+      "ans": "8",
+      "opts": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-3",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 3 = ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-4",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 4 = ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "8",
+        "5",
+        "6"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-5",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 5 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-6",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 6 = ?",
+      "ans": "4",
+      "opts": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-7",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 7 = ?",
+      "ans": "3",
+      "opts": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-8",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 8 = ?",
+      "ans": "2",
+      "opts": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-borrow10-9",
+      "cat": "math",
+      "topic": "10的减法",
+      "text": "10 − 9 = ?",
+      "ans": "1",
+      "opts": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "tip": "想一想，10可以分成哪两部分？",
+      "emoji": "🔟",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "visual-add-1-1-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🚗 + 🚗 = ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-1-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍉 + 🍉 = ?",
+      "ans": "2",
+      "opts": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-2-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍇 + 🍇🍇 = ?",
+      "ans": "3",
+      "opts": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-2-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🥕 + 🥕🥕 = ?",
+      "ans": "3",
+      "opts": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-3-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "⭐ + ⭐⭐⭐ = ?",
+      "ans": "4",
+      "opts": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-3-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍓 + 🍓🍓🍓 = ?",
+      "ans": "4",
+      "opts": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-4-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🌸 + 🌸🌸🌸🌸 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-4-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍄 + 🍄🍄🍄🍄 = ?",
+      "ans": "5",
+      "opts": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-5-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🚗 + 🚗🚗🚗🚗🚗 = ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-1-5-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍉 + 🍉🍉🍉🍉🍉 = ?",
+      "ans": "6",
+      "opts": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-1-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍎🍎 + 🍎 = ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-1-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "⭐⭐ + ⭐ = ?",
+      "ans": "3",
+      "opts": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-2-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐟🐟 + 🐟🐟 = ?",
+      "ans": "4",
+      "opts": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-2-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🌸🌸 + 🌸🌸 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-3-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐞🐞 + 🐞🐞🐞 = ?",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "7",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-3-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🚗🚗 + 🚗🚗🚗 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-4-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐦🐦 + 🐦🐦🐦🐦 = ?",
+      "ans": "6",
+      "opts": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-4-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍇🍇 + 🍇🍇🍇🍇 = ?",
+      "ans": "6",
+      "opts": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-5-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍎🍎 + 🍎🍎🍎🍎🍎 = ?",
+      "ans": "7",
+      "opts": [
+        "7",
+        "6",
+        "9",
+        "8"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-2-5-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "⭐⭐ + ⭐⭐⭐⭐⭐ = ?",
+      "ans": "7",
+      "opts": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-1-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍄🍄🍄 + 🍄 = ?",
+      "ans": "4",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-1-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐞🐞🐞 + 🐞 = ?",
+      "ans": "4",
+      "opts": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-2-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍉🍉🍉 + 🍉🍉 = ?",
+      "ans": "5",
+      "opts": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-2-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐦🐦🐦 + 🐦🐦 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-3-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🥕🥕🥕 + 🥕🥕🥕 = ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-3-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍎🍎🍎 + 🍎🍎🍎 = ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-4-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍓🍓🍓 + 🍓🍓🍓🍓 = ?",
+      "ans": "7",
+      "opts": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-4-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐟🐟🐟 + 🐟🐟🐟🐟 = ?",
+      "ans": "7",
+      "opts": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-5-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍄🍄🍄 + 🍄🍄🍄🍄🍄 = ?",
+      "ans": "8",
+      "opts": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-3-5-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐞🐞🐞 + 🐞🐞🐞🐞🐞 = ?",
+      "ans": "8",
+      "opts": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-1-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍇🍇🍇🍇 + 🍇 = ?",
+      "ans": "5",
+      "opts": [
+        "7",
+        "5",
+        "6",
+        "4"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-1-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🥕🥕🥕🥕 + 🥕 = ?",
+      "ans": "5",
+      "opts": [
+        "3",
+        "6",
+        "4",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-2-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "⭐⭐⭐⭐ + ⭐⭐ = ?",
+      "ans": "6",
+      "opts": [
+        "6",
+        "7",
+        "4",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-2-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍓🍓🍓🍓 + 🍓🍓 = ?",
+      "ans": "6",
+      "opts": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-3-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🌸🌸🌸🌸 + 🌸🌸🌸 = ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-3-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍄🍄🍄🍄 + 🍄🍄🍄 = ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-4-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🚗🚗🚗🚗 + 🚗🚗🚗🚗 = ?",
+      "ans": "8",
+      "opts": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-4-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍉🍉🍉🍉 + 🍉🍉🍉🍉 = ?",
+      "ans": "8",
+      "opts": [
+        "8",
+        "7",
+        "10",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-5-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍇🍇🍇🍇 + 🍇🍇🍇🍇🍇 = ?",
+      "ans": "9",
+      "opts": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-4-5-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🥕🥕🥕🥕 + 🥕🥕🥕🥕🥕 = ?",
+      "ans": "9",
+      "opts": [
+        "10",
+        "9",
+        "8",
+        "7"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-1-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐟🐟🐟🐟🐟 + 🐟 = ?",
+      "ans": "6",
+      "opts": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-1-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🌸🌸🌸🌸🌸 + 🌸 = ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-2-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐞🐞🐞🐞🐞 + 🐞🐞 = ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-2-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🚗🚗🚗🚗🚗 + 🚗🚗 = ?",
+      "ans": "7",
+      "opts": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-3-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐦🐦🐦🐦🐦 + 🐦🐦🐦 = ?",
+      "ans": "8",
+      "opts": [
+        "7",
+        "9",
+        "8",
+        "10"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-3-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍇🍇🍇🍇🍇 + 🍇🍇🍇 = ?",
+      "ans": "8",
+      "opts": [
+        "10",
+        "7",
+        "8",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-4-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🍎🍎🍎🍎🍎 + 🍎🍎🍎🍎 = ?",
+      "ans": "9",
+      "opts": [
+        "10",
+        "8",
+        "7",
+        "9"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-4-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "⭐⭐⭐⭐⭐ + ⭐⭐⭐⭐ = ?",
+      "ans": "9",
+      "opts": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-5-0",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🐟🐟🐟🐟🐟 + 🐟🐟🐟🐟🐟 = ?",
+      "ans": "10",
+      "opts": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-add-5-5-1",
+      "cat": "math",
+      "topic": "看图加法",
+      "text": "🌸🌸🌸🌸🌸 + 🌸🌸🌸🌸🌸 = ?",
+      "ans": "10",
+      "opts": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "tip": "把左右两堆数在一起。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-2-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍓🍓 − 1 = ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-2-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐟🐟 − 2 = ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-3-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐟🐟🐟 − 1 = ?",
+      "ans": "2",
+      "opts": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-3-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🌸🌸🌸 − 2 = ?",
+      "ans": "1",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-3-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍄🍄🍄 − 3 = ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-4-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🌸🌸🌸🌸 − 1 = ?",
+      "ans": "3",
+      "opts": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-4-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍄🍄🍄🍄 − 2 = ?",
+      "ans": "2",
+      "opts": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-4-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐞🐞🐞🐞 − 3 = ?",
+      "ans": "1",
+      "opts": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-4-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🚗🚗🚗🚗 − 4 = ?",
+      "ans": "0",
+      "opts": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-5-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍄🍄🍄🍄🍄 − 1 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-5-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐞🐞🐞🐞🐞 − 2 = ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-5-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🚗🚗🚗🚗🚗 − 3 = ?",
+      "ans": "2",
+      "opts": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-5-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍉🍉🍉🍉🍉 − 4 = ?",
+      "ans": "1",
+      "opts": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-5-5",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐦🐦🐦🐦🐦 − 5 = ?",
+      "ans": "0",
+      "opts": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-6-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐞🐞🐞🐞🐞🐞 − 1 = ?",
+      "ans": "5",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-6-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🚗🚗🚗🚗🚗🚗 − 2 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-6-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍉🍉🍉🍉🍉🍉 − 3 = ?",
+      "ans": "3",
+      "opts": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-6-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐦🐦🐦🐦🐦🐦 − 4 = ?",
+      "ans": "2",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-6-5",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍇🍇🍇🍇🍇🍇 − 5 = ?",
+      "ans": "1",
+      "opts": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-7-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🚗🚗🚗🚗🚗🚗🚗 − 1 = ?",
+      "ans": "6",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-7-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍉🍉🍉🍉🍉🍉🍉 − 2 = ?",
+      "ans": "5",
+      "opts": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-7-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐦🐦🐦🐦🐦🐦🐦 − 3 = ?",
+      "ans": "4",
+      "opts": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-7-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍇🍇🍇🍇🍇🍇🍇 − 4 = ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-7-5",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🥕🥕🥕🥕🥕🥕🥕 − 5 = ?",
+      "ans": "2",
+      "opts": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-8-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍉🍉🍉🍉🍉🍉🍉🍉 − 1 = ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-8-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐦🐦🐦🐦🐦🐦🐦🐦 − 2 = ?",
+      "ans": "6",
+      "opts": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-8-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍇🍇🍇🍇🍇🍇🍇🍇 − 3 = ?",
+      "ans": "5",
+      "opts": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-8-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🥕🥕🥕🥕🥕🥕🥕🥕 − 4 = ?",
+      "ans": "4",
+      "opts": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-8-5",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍎🍎🍎🍎🍎🍎🍎🍎 − 5 = ?",
+      "ans": "3",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-9-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🐦🐦🐦🐦🐦🐦🐦🐦🐦 − 1 = ?",
+      "ans": "8",
+      "opts": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-9-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍇🍇🍇🍇🍇🍇🍇🍇🍇 − 2 = ?",
+      "ans": "7",
+      "opts": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-9-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🥕🥕🥕🥕🥕🥕🥕🥕🥕 − 3 = ?",
+      "ans": "6",
+      "opts": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-9-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎 − 4 = ?",
+      "ans": "5",
+      "opts": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-9-5",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐ − 5 = ?",
+      "ans": "4",
+      "opts": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-10-1",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍇🍇🍇🍇🍇🍇🍇🍇🍇🍇 − 1 = ?",
+      "ans": "9",
+      "opts": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-10-2",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕 − 2 = ?",
+      "ans": "8",
+      "opts": [
+        "10",
+        "7",
+        "8",
+        "9"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-10-3",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎 − 3 = ?",
+      "ans": "7",
+      "opts": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-10-4",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ − 4 = ?",
+      "ans": "6",
+      "opts": [
+        "4",
+        "7",
+        "6",
+        "5"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-sub-10-5",
+      "cat": "math",
+      "topic": "看图减法",
+      "text": "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓 − 5 = ?",
+      "ans": "5",
+      "opts": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "tip": "先数一共有几个，再去掉一些。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-1-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍎",
+      "ans": "1",
+      "opts": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-1-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍄",
+      "ans": "1",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-1-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍇",
+      "ans": "1",
+      "opts": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-2-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：⭐⭐",
+      "ans": "2",
+      "opts": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-2-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐞🐞",
+      "ans": "2",
+      "opts": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-2-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🥕🥕",
+      "ans": "2",
+      "opts": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-3-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍓🍓🍓",
+      "ans": "3",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-3-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🚗🚗🚗",
+      "ans": "3",
+      "opts": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-3-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍎🍎🍎",
+      "ans": "3",
+      "opts": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-4-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐟🐟🐟🐟",
+      "ans": "4",
+      "opts": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-4-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍉🍉🍉🍉",
+      "ans": "4",
+      "opts": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-4-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：⭐⭐⭐⭐",
+      "ans": "4",
+      "opts": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-5-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🌸🌸🌸🌸🌸",
+      "ans": "5",
+      "opts": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-5-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐦🐦🐦🐦🐦",
+      "ans": "5",
+      "opts": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-5-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍓🍓🍓🍓🍓",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-6-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍄🍄🍄🍄🍄🍄",
+      "ans": "6",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-6-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍇🍇🍇🍇🍇🍇",
+      "ans": "6",
+      "opts": [
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-6-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐟🐟🐟🐟🐟🐟",
+      "ans": "6",
+      "opts": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-7-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐞🐞🐞🐞🐞🐞🐞",
+      "ans": "7",
+      "opts": [
+        "5",
+        "8",
+        "7",
+        "6"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-7-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🥕🥕🥕🥕🥕🥕🥕",
+      "ans": "7",
+      "opts": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-7-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🌸🌸🌸🌸🌸🌸🌸",
+      "ans": "7",
+      "opts": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-8-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🚗🚗🚗🚗🚗🚗🚗🚗",
+      "ans": "8",
+      "opts": [
+        "10",
+        "8",
+        "9",
+        "7"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-8-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍎🍎🍎🍎🍎🍎🍎🍎",
+      "ans": "8",
+      "opts": [
+        "9",
+        "7",
+        "8",
+        "6"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-8-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍄🍄🍄🍄🍄🍄🍄🍄",
+      "ans": "8",
+      "opts": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-9-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍉🍉🍉🍉🍉🍉🍉🍉🍉",
+      "ans": "9",
+      "opts": [
+        "11",
+        "10",
+        "8",
+        "9"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-9-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "ans": "9",
+      "opts": [
+        "9",
+        "10",
+        "8",
+        "7"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-9-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐞🐞🐞🐞🐞🐞🐞🐞🐞",
+      "ans": "9",
+      "opts": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-10-0",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦",
+      "ans": "10",
+      "opts": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-10-1",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
+      "ans": "10",
+      "opts": [
+        "9",
+        "11",
+        "12",
+        "10"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-count-10-2",
+      "cat": "math",
+      "topic": "看图数数",
+      "text": "数一数：🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗",
+      "ans": "10",
+      "opts": [
+        "9",
+        "12",
+        "11",
+        "10"
+      ],
+      "tip": "一个一个点着数。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-5-1",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍇 + ❓ = 5",
+      "ans": "4",
+      "opts": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-5-2",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🥕🥕 + ❓ = 5",
+      "ans": "3",
+      "opts": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-5-3",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍎🍎🍎 + ❓ = 5",
+      "ans": "2",
+      "opts": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-5-4",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "⭐⭐⭐⭐ + ❓ = 5",
+      "ans": "1",
+      "opts": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-6-1",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍎 + ❓ = 6",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "7",
+        "6"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-6-2",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "⭐⭐ + ❓ = 6",
+      "ans": "4",
+      "opts": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-6-3",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍓🍓🍓 + ❓ = 6",
+      "ans": "3",
+      "opts": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-6-4",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐟🐟🐟🐟 + ❓ = 6",
+      "ans": "2",
+      "opts": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-6-5",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🌸🌸🌸🌸🌸 + ❓ = 6",
+      "ans": "1",
+      "opts": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-7-1",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍓 + ❓ = 7",
+      "ans": "6",
+      "opts": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-7-2",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐟🐟 + ❓ = 7",
+      "ans": "5",
+      "opts": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-7-3",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🌸🌸🌸 + ❓ = 7",
+      "ans": "4",
+      "opts": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-7-4",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍄🍄🍄🍄 + ❓ = 7",
+      "ans": "3",
+      "opts": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-7-5",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐞🐞🐞🐞🐞 + ❓ = 7",
+      "ans": "2",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-7-6",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🚗🚗🚗🚗🚗🚗 + ❓ = 7",
+      "ans": "1",
+      "opts": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-1",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🌸 + ❓ = 8",
+      "ans": "7",
+      "opts": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-2",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍄🍄 + ❓ = 8",
+      "ans": "6",
+      "opts": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-3",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐞🐞🐞 + ❓ = 8",
+      "ans": "5",
+      "opts": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-4",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🚗🚗🚗🚗 + ❓ = 8",
+      "ans": "4",
+      "opts": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-5",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍉🍉🍉🍉🍉 + ❓ = 8",
+      "ans": "3",
+      "opts": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-6",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐦🐦🐦🐦🐦🐦 + ❓ = 8",
+      "ans": "2",
+      "opts": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-8-7",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍇🍇🍇🍇🍇🍇🍇 + ❓ = 8",
+      "ans": "1",
+      "opts": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-1",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐞 + ❓ = 9",
+      "ans": "8",
+      "opts": [
+        "9",
+        "10",
+        "7",
+        "8"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐞",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-2",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🚗🚗 + ❓ = 9",
+      "ans": "7",
+      "opts": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🚗",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-3",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍉🍉🍉 + ❓ = 9",
+      "ans": "6",
+      "opts": [
+        "8",
+        "6",
+        "7",
+        "5"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-4",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐦🐦🐦🐦 + ❓ = 9",
+      "ans": "5",
+      "opts": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-5",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍇🍇🍇🍇🍇 + ❓ = 9",
+      "ans": "4",
+      "opts": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-6",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🥕🥕🥕🥕🥕🥕 + ❓ = 9",
+      "ans": "3",
+      "opts": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-7",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍎🍎🍎🍎🍎🍎🍎 + ❓ = 9",
+      "ans": "2",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-9-8",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "⭐⭐⭐⭐⭐⭐⭐⭐ + ❓ = 9",
+      "ans": "1",
+      "opts": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-1",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍉 + ❓ = 10",
+      "ans": "9",
+      "opts": [
+        "8",
+        "7",
+        "10",
+        "9"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍉",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-2",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐦🐦 + ❓ = 10",
+      "ans": "8",
+      "opts": [
+        "9",
+        "10",
+        "7",
+        "8"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐦",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-3",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍇🍇🍇 + ❓ = 10",
+      "ans": "7",
+      "opts": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍇",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-4",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🥕🥕🥕🥕 + ❓ = 10",
+      "ans": "6",
+      "opts": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🥕",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-5",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍎🍎🍎🍎🍎 + ❓ = 10",
+      "ans": "5",
+      "opts": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍎",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-6",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "⭐⭐⭐⭐⭐⭐ + ❓ = 10",
+      "ans": "4",
+      "opts": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "⭐",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-7",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🍓🍓🍓🍓🍓🍓🍓 + ❓ = 10",
+      "ans": "3",
+      "opts": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🍓",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-8",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🐟🐟🐟🐟🐟🐟🐟🐟 + ❓ = 10",
+      "ans": "2",
+      "opts": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🐟",
+      "source": "variant"
+    },
+    {
+      "id": "visual-missing-10-9",
+      "cat": "math",
+      "topic": "图形分解",
+      "text": "🌸🌸🌸🌸🌸🌸🌸🌸🌸 + ❓ = 10",
+      "ans": "1",
+      "opts": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "tip": "图上有一部分，想想另一部分有几个。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "src-strokes-日",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「日」有几画？",
+      "ans": "4",
+      "opts": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-日",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「日」读什么？",
+      "ans": "rì",
+      "opts": [
+        "jiàn",
+        "zǐ",
+        "shǎo",
+        "rì"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-目",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「目」有几画？",
+      "ans": "5",
+      "opts": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-目",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「目」读什么？",
+      "ans": "mù",
+      "opts": [
+        "qù",
+        "mù",
+        "qī",
+        "xī"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-七",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「七」有几画？",
+      "ans": "2",
+      "opts": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-七",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「七」读什么？",
+      "ans": "qī",
+      "opts": [
+        "qī",
+        "bù",
+        "shuǐ",
+        "qù"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-五",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「五」有几画？",
+      "ans": "4",
+      "opts": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-五",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「五」读什么？",
+      "ans": "wǔ",
+      "opts": [
+        "wǔ",
+        "shǎo",
+        "zǐ",
+        "kāi"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-门",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「门」有几画？",
+      "ans": "3",
+      "opts": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-门",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「门」读什么？",
+      "ans": "mén",
+      "opts": [
+        "xī",
+        "yún",
+        "chóng",
+        "mén"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-少",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「少」有几画？",
+      "ans": "4",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-少",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「少」读什么？",
+      "ans": "shǎo",
+      "opts": [
+        "yún",
+        "shǎo",
+        "kāi",
+        "qù"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-子",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「子」有几画？",
+      "ans": "3",
+      "opts": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-子",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「子」读什么？",
+      "ans": "zǐ",
+      "opts": [
+        "chū",
+        "zǐ",
+        "niú",
+        "xī"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-了",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「了」有几画？",
+      "ans": "2",
+      "opts": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-了",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「了」读什么？",
+      "ans": "le",
+      "opts": [
+        "qī",
+        "sì",
+        "niú",
+        "le"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-木",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「木」有几画？",
+      "ans": "4",
+      "opts": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-木",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「木」读什么？",
+      "ans": "mù",
+      "opts": [
+        "jiǔ",
+        "mù",
+        "bā",
+        "bù"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-禾",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「禾」有几画？",
+      "ans": "5",
+      "opts": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-禾",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「禾」读什么？",
+      "ans": "hé",
+      "opts": [
+        "rì",
+        "shān",
+        "sì",
+        "hé"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-云",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「云」有几画？",
+      "ans": "4",
+      "opts": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-云",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「云」读什么？",
+      "ans": "yún",
+      "opts": [
+        "sì",
+        "yún",
+        "shǎo",
+        "bā"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-去",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「去」有几画？",
+      "ans": "5",
+      "opts": [
+        "6",
+        "7",
+        "4",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-去",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「去」读什么？",
+      "ans": "qù",
+      "opts": [
+        "qù",
+        "chóng",
+        "shān",
+        "kāi"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-九",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「九」有几画？",
+      "ans": "2",
+      "opts": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-九",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「九」读什么？",
+      "ans": "jiǔ",
+      "opts": [
+        "jiǔ",
+        "shǎo",
+        "zǐ",
+        "hé"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-见",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「见」有几画？",
+      "ans": "4",
+      "opts": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-见",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「见」读什么？",
+      "ans": "jiàn",
+      "opts": [
+        "jiàn",
+        "jiǔ",
+        "chū",
+        "sì"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-午",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「午」有几画？",
+      "ans": "4",
+      "opts": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-午",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「午」读什么？",
+      "ans": "wǔ",
+      "opts": [
+        "kāi",
+        "wǔ",
+        "chóng",
+        "bā"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-牛",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「牛」有几画？",
+      "ans": "4",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-牛",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「牛」读什么？",
+      "ans": "niú",
+      "opts": [
+        "guān",
+        "xī",
+        "qù",
+        "niú"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-山",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「山」有几画？",
+      "ans": "3",
+      "opts": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-山",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「山」读什么？",
+      "ans": "shān",
+      "opts": [
+        "qù",
+        "chóng",
+        "xī",
+        "shān"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-出",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「出」有几画？",
+      "ans": "5",
+      "opts": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-出",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「出」读什么？",
+      "ans": "chū",
+      "opts": [
+        "bā",
+        "qù",
+        "mén",
+        "chū"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-开",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「开」有几画？",
+      "ans": "4",
+      "opts": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-开",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「开」读什么？",
+      "ans": "kāi",
+      "opts": [
+        "chóng",
+        "zǐ",
+        "kāi",
+        "shǎo"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-关",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「关」有几画？",
+      "ans": "6",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-关",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「关」读什么？",
+      "ans": "guān",
+      "opts": [
+        "qù",
+        "mén",
+        "guān",
+        "jiàn"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-水",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「水」有几画？",
+      "ans": "4",
+      "opts": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-水",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「水」读什么？",
+      "ans": "shuǐ",
+      "opts": [
+        "jiǔ",
+        "rì",
+        "shuǐ",
+        "bā"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-不",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「不」有几画？",
+      "ans": "4",
+      "opts": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-不",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「不」读什么？",
+      "ans": "bù",
+      "opts": [
+        "sì",
+        "chū",
+        "rì",
+        "bù"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-巴",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「巴」有几画？",
+      "ans": "4",
+      "opts": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-巴",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「巴」读什么？",
+      "ans": "bā",
+      "opts": [
+        "bā",
+        "bù",
+        "kāi",
+        "qī"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-虫",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「虫」有几画？",
+      "ans": "6",
+      "opts": [
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-虫",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「虫」读什么？",
+      "ans": "chóng",
+      "opts": [
+        "le",
+        "chóng",
+        "guān",
+        "sì"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-四",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「四」有几画？",
+      "ans": "5",
+      "opts": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-四",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「四」读什么？",
+      "ans": "sì",
+      "opts": [
+        "chū",
+        "jiǔ",
+        "sì",
+        "le"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-strokes-西",
+      "cat": "cn",
+      "topic": "汉字笔画",
+      "text": "「西」有几画？",
+      "ans": "6",
+      "opts": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "tip": "伸出手指，按笔顺数一数。",
+      "emoji": "✏️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-pinyin-西",
+      "cat": "cn",
+      "topic": "汉字与拼音",
+      "text": "「西」读什么？",
+      "ans": "xī",
+      "opts": [
+        "shuǐ",
+        "xī",
+        "qù",
+        "yún"
+      ],
+      "tip": "看清声调，跟家长一起读一遍。",
+      "emoji": "📖",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "visual-hanzi-日",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "☀️ → ?",
+      "ans": "日",
+      "opts": [
+        "目",
+        "白",
+        "日",
+        "田"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "☀️",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-目",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "👀 → ?",
+      "ans": "目",
+      "opts": [
+        "口",
+        "耳",
+        "目",
+        "日"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "👀",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-木",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "🌳 → ?",
+      "ans": "木",
+      "opts": [
+        "禾",
+        "末",
+        "本",
+        "木"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "🌳",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-禾",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "🌾 → ?",
+      "ans": "禾",
+      "opts": [
+        "木",
+        "禾",
+        "本",
+        "米"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "🌾",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-山",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "⛰️ → ?",
+      "ans": "山",
+      "opts": [
+        "土",
+        "川",
+        "山",
+        "出"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "⛰️",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-牛",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "🐄 → ?",
+      "ans": "牛",
+      "opts": [
+        "半",
+        "生",
+        "午",
+        "牛"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "🐄",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-水",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "💧 → ?",
+      "ans": "水",
+      "opts": [
+        "火",
+        "木",
+        "水",
+        "不"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "💧",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-门",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "🚪 → ?",
+      "ans": "门",
+      "opts": [
+        "问",
+        "门",
+        "口",
+        "日"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "🚪",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-虫",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "🐛 → ?",
+      "ans": "虫",
+      "opts": [
+        "虫",
+        "中",
+        "口",
+        "巴"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "🐛",
+      "source": "variant"
+    },
+    {
+      "id": "visual-hanzi-云",
+      "cat": "cn",
+      "topic": "看图识字",
+      "text": "☁️ → ?",
+      "ans": "云",
+      "opts": [
+        "天",
+        "二",
+        "云",
+        "去"
+      ],
+      "tip": "看图想一想，它对应哪个汉字？",
+      "emoji": "☁️",
+      "source": "variant"
+    },
+    {
+      "id": "src-vowel-a",
+      "cat": "cn",
+      "topic": "单韵母",
+      "text": "找出单韵母：a",
+      "ans": "a",
+      "opts": [
+        "i",
+        "a",
+        "o",
+        "e"
+      ],
+      "tip": "认一认单韵母，跟家长读一读。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-vowel-o",
+      "cat": "cn",
+      "topic": "单韵母",
+      "text": "找出单韵母：o",
+      "ans": "o",
+      "opts": [
+        "i",
+        "o",
+        "e",
+        "a"
+      ],
+      "tip": "认一认单韵母，跟家长读一读。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-vowel-e",
+      "cat": "cn",
+      "topic": "单韵母",
+      "text": "找出单韵母：e",
+      "ans": "e",
+      "opts": [
+        "a",
+        "i",
+        "o",
+        "e"
+      ],
+      "tip": "认一认单韵母，跟家长读一读。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-vowel-i",
+      "cat": "cn",
+      "topic": "单韵母",
+      "text": "找出单韵母：i",
+      "ans": "i",
+      "opts": [
+        "i",
+        "a",
+        "o",
+        "e"
+      ],
+      "tip": "认一认单韵母，跟家长读一读。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-vowel-u",
+      "cat": "cn",
+      "topic": "单韵母",
+      "text": "找出单韵母：u",
+      "ans": "u",
+      "opts": [
+        "u",
+        "e",
+        "a",
+        "o"
+      ],
+      "tip": "认一认单韵母，跟家长读一读。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-vowel-ü",
+      "cat": "cn",
+      "topic": "单韵母",
+      "text": "找出单韵母：ü",
+      "ans": "ü",
+      "opts": [
+        "ü",
+        "a",
+        "o",
+        "e"
+      ],
+      "tip": "认一认单韵母，跟家长读一读。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "visual-syll-ba",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "b + a → ?",
+      "ans": "ba",
+      "opts": [
+        "ma",
+        "fa",
+        "pa",
+        "ba"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-bo",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "b + o → ?",
+      "ans": "bo",
+      "opts": [
+        "bo",
+        "mo",
+        "po",
+        "fo"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-bi",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "b + i → ?",
+      "ans": "bi",
+      "opts": [
+        "mi",
+        "fi",
+        "pi",
+        "bi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-bu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "b + u → ?",
+      "ans": "bu",
+      "opts": [
+        "mu",
+        "pu",
+        "fu",
+        "bu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-pa",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "p + a → ?",
+      "ans": "pa",
+      "opts": [
+        "ba",
+        "fa",
+        "ma",
+        "pa"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-po",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "p + o → ?",
+      "ans": "po",
+      "opts": [
+        "mo",
+        "bo",
+        "fo",
+        "po"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-pi",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "p + i → ?",
+      "ans": "pi",
+      "opts": [
+        "mi",
+        "bi",
+        "pi",
+        "fi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-pu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "p + u → ?",
+      "ans": "pu",
+      "opts": [
+        "bu",
+        "fu",
+        "pu",
+        "mu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-ma",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "m + a → ?",
+      "ans": "ma",
+      "opts": [
+        "ba",
+        "pa",
+        "fa",
+        "ma"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-mo",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "m + o → ?",
+      "ans": "mo",
+      "opts": [
+        "po",
+        "bo",
+        "mo",
+        "fo"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-mi",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "m + i → ?",
+      "ans": "mi",
+      "opts": [
+        "pi",
+        "mi",
+        "bi",
+        "fi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-mu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "m + u → ?",
+      "ans": "mu",
+      "opts": [
+        "fu",
+        "pu",
+        "mu",
+        "bu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-fa",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "f + a → ?",
+      "ans": "fa",
+      "opts": [
+        "ma",
+        "pa",
+        "ba",
+        "fa"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-fo",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "f + o → ?",
+      "ans": "fo",
+      "opts": [
+        "po",
+        "fo",
+        "mo",
+        "bo"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-fu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "f + u → ?",
+      "ans": "fu",
+      "opts": [
+        "pu",
+        "mu",
+        "fu",
+        "bu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-da",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "d + a → ?",
+      "ans": "da",
+      "opts": [
+        "pa",
+        "ba",
+        "da",
+        "ma"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-do",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "d + o → ?",
+      "ans": "do",
+      "opts": [
+        "bo",
+        "mo",
+        "do",
+        "po"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-di",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "d + i → ?",
+      "ans": "di",
+      "opts": [
+        "mi",
+        "pi",
+        "di",
+        "bi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-du",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "d + u → ?",
+      "ans": "du",
+      "opts": [
+        "mu",
+        "du",
+        "bu",
+        "pu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-ta",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "t + a → ?",
+      "ans": "ta",
+      "opts": [
+        "pa",
+        "ta",
+        "ba",
+        "ma"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-to",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "t + o → ?",
+      "ans": "to",
+      "opts": [
+        "bo",
+        "to",
+        "mo",
+        "po"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-ti",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "t + i → ?",
+      "ans": "ti",
+      "opts": [
+        "bi",
+        "mi",
+        "ti",
+        "pi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-tu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "t + u → ?",
+      "ans": "tu",
+      "opts": [
+        "pu",
+        "tu",
+        "mu",
+        "bu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-na",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "n + a → ?",
+      "ans": "na",
+      "opts": [
+        "na",
+        "pa",
+        "ma",
+        "ba"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-no",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "n + o → ?",
+      "ans": "no",
+      "opts": [
+        "no",
+        "bo",
+        "po",
+        "mo"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-ni",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "n + i → ?",
+      "ans": "ni",
+      "opts": [
+        "bi",
+        "ni",
+        "pi",
+        "mi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-nu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "n + u → ?",
+      "ans": "nu",
+      "opts": [
+        "nu",
+        "pu",
+        "mu",
+        "bu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-la",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "l + a → ?",
+      "ans": "la",
+      "opts": [
+        "la",
+        "ba",
+        "ma",
+        "pa"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-lo",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "l + o → ?",
+      "ans": "lo",
+      "opts": [
+        "mo",
+        "lo",
+        "bo",
+        "po"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-li",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "l + i → ?",
+      "ans": "li",
+      "opts": [
+        "pi",
+        "bi",
+        "li",
+        "mi"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "visual-syll-lu",
+      "cat": "cn",
+      "topic": "拼音拼读",
+      "text": "l + u → ?",
+      "ans": "lu",
+      "opts": [
+        "bu",
+        "lu",
+        "mu",
+        "pu"
+      ],
+      "tip": "声母和韵母连起来，慢慢拼。",
+      "emoji": "🔠",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-tree",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🌳 → ?",
+      "ans": "tree",
+      "opts": [
+        "tree",
+        "grass",
+        "nest",
+        "frog"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🌳",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-tree",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "tree → ?",
+      "ans": "🌳",
+      "opts": [
+        "🐸",
+        "🌱",
+        "🌳",
+        "🪺"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🌳",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-leaves",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🍃 → ?",
+      "ans": "leaves",
+      "opts": [
+        "fox",
+        "grass",
+        "leaves",
+        "river"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🍃",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-leaves",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "leaves → ?",
+      "ans": "🍃",
+      "opts": [
+        "🍃",
+        "🌱",
+        "🏞️",
+        "🦊"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🍃",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-frog",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🐸 → ?",
+      "ans": "frog",
+      "opts": [
+        "frog",
+        "flower",
+        "tree",
+        "home"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🐸",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-frog",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "frog → ?",
+      "ans": "🐸",
+      "opts": [
+        "🏠",
+        "🌸",
+        "🐸",
+        "🌳"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🐸",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-grass",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🌱 → ?",
+      "ans": "grass",
+      "opts": [
+        "grass",
+        "bee",
+        "nest",
+        "box"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🌱",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-grass",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "grass → ?",
+      "ans": "🌱",
+      "opts": [
+        "🪺",
+        "📦",
+        "🐝",
+        "🌱"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🌱",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-flower",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🌸 → ?",
+      "ans": "flower",
+      "opts": [
+        "leaves",
+        "flower",
+        "grass",
+        "van"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🌸",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-flower",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "flower → ?",
+      "ans": "🌸",
+      "opts": [
+        "🍃",
+        "🌸",
+        "🌱",
+        "🚐"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🌸",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-bee",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🐝 → ?",
+      "ans": "bee",
+      "opts": [
+        "rabbit",
+        "bee",
+        "nest",
+        "grass"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🐝",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-bee",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "bee → ?",
+      "ans": "🐝",
+      "opts": [
+        "🐇",
+        "🐝",
+        "🪺",
+        "🌱"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🐝",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-van",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🚐 → ?",
+      "ans": "van",
+      "opts": [
+        "watch",
+        "fox",
+        "grass",
+        "van"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🚐",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-van",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "van → ?",
+      "ans": "🚐",
+      "opts": [
+        "🚐",
+        "🦊",
+        "⌚",
+        "🌱"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🚐",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-violin",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🎻 → ?",
+      "ans": "violin",
+      "opts": [
+        "flower",
+        "nest",
+        "violin",
+        "watch"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🎻",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-violin",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "violin → ?",
+      "ans": "🎻",
+      "opts": [
+        "🌸",
+        "🪺",
+        "⌚",
+        "🎻"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🎻",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-watch",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "⌚ → ?",
+      "ans": "watch",
+      "opts": [
+        "frog",
+        "watch",
+        "nest",
+        "river"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "⌚",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-watch",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "watch → ?",
+      "ans": "⌚",
+      "opts": [
+        "🏞️",
+        "🐸",
+        "🪺",
+        "⌚"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "⌚",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-water",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "💧 → ?",
+      "ans": "water",
+      "opts": [
+        "frog",
+        "grass",
+        "water",
+        "home"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "💧",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-water",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "water → ?",
+      "ans": "💧",
+      "opts": [
+        "🌱",
+        "🏠",
+        "🐸",
+        "💧"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "💧",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-fox",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🦊 → ?",
+      "ans": "fox",
+      "opts": [
+        "grass",
+        "frog",
+        "pond",
+        "fox"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🦊",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-en-picture-box",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "📦 → ?",
+      "ans": "box",
+      "opts": [
+        "leaves",
+        "fox",
+        "flower",
+        "box"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "📦",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-box",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "box → ?",
+      "ans": "📦",
+      "opts": [
+        "🍃",
+        "📦",
+        "🦊",
+        "🌸"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "📦",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-river",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🏞️ → ?",
+      "ans": "river",
+      "opts": [
+        "river",
+        "box",
+        "grass",
+        "pond"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🏞️",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-river",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "river → ?",
+      "ans": "🏞️",
+      "opts": [
+        "🐸",
+        "🏞️",
+        "🌱",
+        "📦"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🏞️",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-rabbit",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🐇 → ?",
+      "ans": "rabbit",
+      "opts": [
+        "frog",
+        "home",
+        "rabbit",
+        "fox"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🐇",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-rabbit",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "rabbit → ?",
+      "ans": "🐇",
+      "opts": [
+        "🦊",
+        "🏠",
+        "🐸",
+        "🐇"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🐇",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-home",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🏠 → ?",
+      "ans": "home",
+      "opts": [
+        "nest",
+        "box",
+        "home",
+        "flower"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🏠",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-home",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "home → ?",
+      "ans": "🏠",
+      "opts": [
+        "🪺",
+        "🏠",
+        "🌸",
+        "📦"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🏠",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-nest",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🪺 → ?",
+      "ans": "nest",
+      "opts": [
+        "grass",
+        "van",
+        "tree",
+        "nest"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🪺",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-nest",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "nest → ?",
+      "ans": "🪺",
+      "opts": [
+        "🪺",
+        "🌳",
+        "🚐",
+        "🌱"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🪺",
+      "source": "variant"
+    },
+    {
+      "id": "src-en-picture-pond",
+      "cat": "en",
+      "topic": "自然主题图词",
+      "text": "🐸 → ?",
+      "ans": "pond",
+      "opts": [
+        "rabbit",
+        "tree",
+        "pond",
+        "grass"
+      ],
+      "tip": "看图片，选一个英语单词。",
+      "emoji": "🐸",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-en-word-pond",
+      "cat": "en",
+      "topic": "英语词义",
+      "text": "pond → ?",
+      "ans": "🐸",
+      "opts": [
+        "🌱",
+        "🐸",
+        "🌳",
+        "🐇"
+      ],
+      "tip": "认读英语单词，选对应的图。",
+      "emoji": "🐸",
+      "source": "variant"
+    },
+    {
+      "id": "src-letter-V-van",
+      "cat": "en",
+      "topic": "英文字母VWX",
+      "text": "van 里面有哪个字母？",
+      "ans": "V",
+      "opts": [
+        "W",
+        "A",
+        "X",
+        "V"
+      ],
+      "tip": "先观察单词里的字母。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-letter-V-violin",
+      "cat": "en",
+      "topic": "英文字母VWX",
+      "text": "violin 里面有哪个字母？",
+      "ans": "V",
+      "opts": [
+        "V",
+        "X",
+        "W",
+        "A"
+      ],
+      "tip": "先观察单词里的字母。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-letter-W-watch",
+      "cat": "en",
+      "topic": "英文字母VWX",
+      "text": "watch 里面有哪个字母？",
+      "ans": "W",
+      "opts": [
+        "X",
+        "V",
+        "A",
+        "W"
+      ],
+      "tip": "先观察单词里的字母。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-letter-W-water",
+      "cat": "en",
+      "topic": "英文字母VWX",
+      "text": "water 里面有哪个字母？",
+      "ans": "W",
+      "opts": [
+        "X",
+        "A",
+        "V",
+        "W"
+      ],
+      "tip": "先观察单词里的字母。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-letter-X-fox",
+      "cat": "en",
+      "topic": "英文字母VWX",
+      "text": "fox 里面有哪个字母？",
+      "ans": "X",
+      "opts": [
+        "A",
+        "X",
+        "W",
+        "V"
+      ],
+      "tip": "先观察单词里的字母。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "src-letter-X-box",
+      "cat": "en",
+      "topic": "英文字母VWX",
+      "text": "box 里面有哪个字母？",
+      "ans": "X",
+      "opts": [
+        "X",
+        "W",
+        "V",
+        "A"
+      ],
+      "tip": "先观察单词里的字母。",
+      "emoji": "🔤",
+      "source": "source_reconstructed"
+    },
+    {
+      "id": "variant-size-big",
+      "cat": "en",
+      "topic": "big和small",
+      "text": "🐘   🐭　选：big",
+      "ans": "🐘",
+      "opts": [
+        "🐰",
+        "🐝",
+        "🐭",
+        "🐘"
+      ],
+      "tip": "big 是大，small 是小。",
+      "emoji": "🐘",
+      "source": "variant"
+    },
+    {
+      "id": "variant-size-small",
+      "cat": "en",
+      "topic": "big和small",
+      "text": "🐭   🐘　选：small",
+      "ans": "🐭",
+      "opts": [
+        "🐭",
+        "🐝",
+        "🐰",
+        "🐘"
+      ],
+      "tip": "big 是大，small 是小。",
+      "emoji": "🐘",
+      "source": "variant"
     }
   ]
 }
